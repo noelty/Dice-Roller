@@ -24,7 +24,7 @@ footer {
     gap: 1rem;
     align-items: baseline;
 }
-.link > img {
+.link > a > img {
     width: 1.5rem;
 }
 .brand > img{
