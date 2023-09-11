@@ -1,0 +1,52 @@
+body {
+    background-color: hsl(239, 100%, 16%);
+
+}
+.home {
+    flex-direction: column;
+    justify-content: center;
+    background-color: hsl(239, 100%, 16%);
+}
+.title {
+    color: hsl(174, 55%, 80%);
+    font-family: 'Lobster Two', cursive;
+}
+.description {
+    color: hsl(174, 55%, 80%);
+    font-family: 'League Spartan', sans-serif;
+}
+footer {
+    background-color: hsl(240, 100%, 11%);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem;
+    gap: 1rem;
+    align-items: baseline;
+}
+.link > img {
+    width: 1.5rem;
+}
+.brand > img{
+    width: 3rem;
+}
+.padding-50 {
+    padding: 0.5rem;
+}
+
+.padding-top-500 {
+    padding-top: 5rem;
+}
+.padding-top-100 {
+    padding-top: 1rem;
+}
+
+.roll-btn {
+    background-color: #0E2696;
+    border: none;
+    color: hsl(174, 55%, 80%);
+}
+.footer-description {
+    color: hsl(174, 55%, 80%);
+    font-family: 'League Spartan', sans-serif;
+}
